@@ -174,14 +174,6 @@ I'm a passionate **Computer Science undergraduate specializing in Artificial Int
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riddhima06&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
 ## 🐍 Watch My Contributions Get Eaten!
 
 <p align="center">
@@ -227,7 +219,7 @@ print(me.motto())
 ## 🤝 Let's Connect!
 
 <p align="center">
-I'm always excited to learn, collaborate and build innovative solutions.
+  I'm always excited to learn, collaborate and build innovative solutions.
 </p>
 
 <p align="center">
