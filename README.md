@@ -6,14 +6,11 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/riddhima-rajput-827783303/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Riddhima06">
-    <img src="https://img.shields.io/badge/GITHUB-RIDDHIMA06-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/EMAIL-Contact_Me-D14836?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/GITHUB-RIDDHIMA06-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -37,9 +34,10 @@ I'm a passionate **Computer Science undergraduate specializing in Artificial Int
 - 🤝 Interested in open-source and collaborative projects.
 
 </td>
+
 <td width="40%" align="center">
 
-<img src="https://api.dicebear.com/9.x/avataaars/svg?seed=Riddhima&accessories=prescription02&accessoriesProbability=100&top=longHairStraight&clothing=hoodie&backgroundColor=b6e3f4" width="280" alt="Cartoon girl with glasses" />
+<img src="https://api.dicebear.com/10.x/avataaars/png?seed=Riddhima&accessoriesVariant=round&accessoriesProbability=100&topVariant=longButNotTooLong&clothesVariant=hoodie&backgroundColor=b6e3f4" width="280" alt="Cute cartoon girl with long hair and glasses" />
 
 </td>
 </tr>
@@ -57,17 +55,17 @@ I'm a passionate **Computer Science undergraduate specializing in Artificial Int
 
 <h3>🤖 AI, Machine Learning & Data Science</h3>
 
-- Artificial Intelligence & Machine Learning
+- Artificial Intelligence and Machine Learning
 - Supervised Learning
-- Classification & Predictive Modelling
-- Feature Engineering & Selection
+- Classification and Predictive Modelling
+- Feature Engineering and Selection
 - Exploratory Data Analysis (EDA)
 - Natural Language Processing (NLP)
-- TF-IDF & Text Processing
-- LSTM & Time Series Modelling
+- TF-IDF and Text Processing
+- LSTM and Time Series Modelling
 - Geospatial Data Analysis
-- Haversine Distance & BallTree
-- Model Evaluation & Validation
+- Haversine Distance and BallTree
+- Model Evaluation and Validation
 - Data Visualization
 - Agentic AI Concepts
 
@@ -77,11 +75,17 @@ I'm a passionate **Computer Science undergraduate specializing in Artificial Int
 <img src="https://skillicons.dev/icons?i=numpy,pandas,flask,django,react,nodejs,tailwind" />
 </p>
 
-- NumPy, Pandas, GeoPandas
-- Scikit-learn, Shapely, Matplotlib
+- NumPy
+- Pandas
+- GeoPandas
+- Shapely
+- Scikit-learn
+- Matplotlib
 - TensorFlow
-- Flask & Django
-- React.js & Node.js
+- Flask
+- Django
+- React.js
+- Node.js
 - Tailwind CSS
 - REST APIs
 
@@ -97,14 +101,23 @@ I'm a passionate **Computer Science undergraduate specializing in Artificial Int
 - MongoDB
 - SQLAlchemy
 
-<h3>☁️ Cloud & Developer Tools</h3>
+<h3>☁️ Cloud & Platforms</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=azure,git,github,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=azure" />
 </p>
 
 - Microsoft Azure Fundamentals (AZ-900)
-- Git & GitHub
+- Cloud Computing Fundamentals
+- API Integration
+
+<h3>🔧 Tools & Technologies</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
+
+- Git and GitHub
 - VS Code
 - Postman
 - Jupyter Notebook
@@ -112,150 +125,30 @@ I'm a passionate **Computer Science undergraduate specializing in Artificial Int
 
 ---
 
-<h2>🚀 Featured Projects</h2>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>✈️ BeTwin-AI</h3>
-
-<b>AI Behavioral Digital Twin</b>
-
-An AI-powered predictive maintenance system that estimates the Remaining Useful Life of aircraft engines.
-
-- LSTM-Based RUL Prediction
-- NASA C-MAPSS Dataset
-- Time Series Sensor Analysis
-- Engine Health Monitoring
-- Flask Web Application
-- Interactive Dashboard
-
-<b>Tech:</b> Python | TensorFlow | LSTM | Flask
-
-<a href="https://github.com/Riddhima06/BeTwin-AI">View Repository</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🏥 Healthcare Checker</h3>
-
-<b>AI-Powered Health Assistant</b>
-
-An AI-powered application designed to provide preliminary health information.
-
-- AI-Based Symptom Processing
-- Preliminary Health Guidance
-- Potential Red-Flag Identification
-- Interactive User Interface
-
-<b>Tech:</b> React | JavaScript | Gemini API
-
-<a href="https://github.com/Riddhima06/Healthcare-Checker">View Repository</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>📊 Sentiment Analysis</h3>
-
-<b>Sentiment Analysis Application</b>
-
-A web-based application for analyzing text and understanding sentiment.
-
-- Text Processing
-- Sentiment Classification
-- Interactive Interface
-- API Integration
-
-<b>Tech:</b> React | JavaScript | Tailwind CSS
-
-<a href="https://github.com/Riddhima06/sentiment-analysis">View Repository</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🚌 TransitFlow</h3>
-
-<b>Web Development Project</b>
-
-A transit-themed web development project.
-
-- Frontend Development
-- CSS Styling
-- Interactive Web Components
-
-<b>Tech:</b> CSS | JavaScript | HTML
-
-<a href="https://github.com/Riddhima06/TransitFlow">View Repository</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>🧮 Calculator</h3>
-
-<b>Calculator Project</b>
-
-A beginner-friendly programming project.
-
-- Java Programming
-- Basic Programming Concepts
-- Problem Solving
-
-<b>Tech:</b> Java
-
-<a href="https://github.com/Riddhima06/Calculator">View Repository</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🌐 Portfolio</h3>
-
-<b>Personal Portfolio Website</b>
-
-A personal portfolio project showcasing web development work.
-
-- Frontend Development
-- Portfolio Design
-- Web Technologies
-
-<b>Tech:</b> TypeScript
-
-<a href="https://github.com/Riddhima06/Portfolio">View Repository</a>
-
-</td>
-</tr>
-</table>
-
----
-
 <h2>💼 Professional Experience</h2>
 
 <h3>Data Science Intern | BharatPe</h3>
 
-<b>Resilient Finance Private Limited</b>
+**Resilient Finance Private Limited**
 
-- Worked with real-world datasets.
+- Worked with real-world datasets for data-driven analysis.
 - Performed Exploratory Data Analysis and feature engineering.
-- Applied geospatial data processing.
-- Used Haversine distance and BallTree-based spatial querying.
+- Applied geospatial data processing and location-based analysis.
+- Used Haversine distance calculations and BallTree-based spatial querying.
 - Explored classification, prediction and risk analysis.
 - Worked with Python, Pandas, NumPy, GeoPandas, Shapely and Scikit-learn.
 
-<b>Duration:</b> 2 Months | Paid Internship
+**Duration:** 2 Months | Paid Internship
 
 ---
 
 <h2>🏆 Achievements & Recognition</h2>
 
-- 🥇 Secured **1st Rank** in GLA University internal SIH .
+- 🥇 Secured **1st Rank** in GLA University internal SIH software team selection.
+- 🏅 Selected among **62 teams from approximately 340 participating teams**.
+- 🤖 Worked as **ML Engineer** for SIH26042 – VaniSetu.
 - 🌐 Selected for the **Google Gemini Enterprise Student Ambassador Program**.
-- ☁️ Earned **Microsoft Azure Fundamentals (AZ-900) and AI-900** certification.
+- ☁️ Earned **Microsoft Azure Fundamentals (AZ-900)** certification.
 
 ---
 
@@ -263,7 +156,7 @@ A personal portfolio project showcasing web development work.
 
 | Qualification | Institution | Year | Score |
 |---|---|---|---|
-| B.Tech CSE (AIML) | GLA University, Mathura | 2024–2028 | 7.95 CPI |
+| B.Tech CSE (AIML) | GLA University, Mathura | 2024–2028 | 7.89 CPI |
 | Class XII (CBSE) | Kanha Makhan Public School | 2024 | 76.3% |
 | Class X (CBSE) | Kanha Makhan Public School | 2022 | 95% |
 
@@ -272,13 +165,12 @@ A personal portfolio project showcasing web development work.
 <h2>📊 GitHub Analytics</h2>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Riddhima06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riddhima06&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Riddhima06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riddhima06&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Riddhima06&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Riddhima06&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -286,15 +178,15 @@ A personal portfolio project showcasing web development work.
 <h2>📈 Contribution Activity</h2>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riddhima06&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riddhima06&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
-<h2>🐍 Contribution Snake</h2>
+<h2>🐍 Watch My Contributions Get Eaten!</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Riddhima06/Riddhima06/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Riddhima06/Riddhima06/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
 </p>
 
 ---
@@ -319,7 +211,7 @@ class RiddhimaRajput:
 
         self.current_focus = [
             "Building intelligent applications",
-            "Exploring Machine Learning",
+            "Exploring advanced ML",
             "Learning Agentic AI"
         ]
 
@@ -340,21 +232,16 @@ I'm always excited to learn, collaborate and build innovative solutions.
 </p>
 
 <p align="center">
-<a href="https://github.com/Riddhima06">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
-</a>
+  <a href="https://www.linkedin.com/in/riddhima-rajput-827783303/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Riddhima06">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <h3 align="center">✨ Learn. Build. Innovate. Repeat. ✨</h3>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
 </p>
