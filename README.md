@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi there, I'm Riddhima Rajput 👋</h1>
+# Hi there, I'm Riddhima Rajput 👋
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;Data+Science+Enthusiast;Machine+Learning+%7C+NLP;Problem+Solver;Building+Intelligent+Solutions" />
@@ -16,7 +15,7 @@
 
 ---
 
-<h2>👩‍💻 About Me</h2>
+## 👩‍💻 About Me
 
 <table>
 <tr>
@@ -37,7 +36,7 @@ I'm a passionate **Computer Science undergraduate specializing in Artificial Int
 
 <td width="40%" align="center">
 
-<img src="https://api.dicebear.com/10.x/avataaars/png?seed=Riddhima&accessoriesVariant=round&accessoriesProbability=100&topVariant=longButNotTooLong&clothesVariant=hoodie&backgroundColor=b6e3f4" width="280" alt="Cute cartoon girl with long hair and glasses" />
+<img src="./assets/Cozy%20Coder%20with%20Shoulder-Length%20Waves.png" width="280" alt="Riddhima - Cozy Coder with Glasses" />
 
 </td>
 </tr>
@@ -45,15 +44,15 @@ I'm a passionate **Computer Science undergraduate specializing in Artificial Int
 
 ---
 
-<h2>🛠️ Technical Skills</h2>
+## 🛠️ Technical Skills
 
-<h3>💻 Programming Languages</h3>
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 </p>
 
-<h3>🤖 AI, Machine Learning & Data Science</h3>
+### 🤖 AI, Machine Learning & Data Science
 
 - Artificial Intelligence and Machine Learning
 - Supervised Learning
@@ -69,10 +68,10 @@ I'm a passionate **Computer Science undergraduate specializing in Artificial Int
 - Data Visualization
 - Agentic AI Concepts
 
-<h3>📊 Libraries & Frameworks</h3>
+### 📊 Libraries & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,flask,django,react,nodejs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,flask,django,react,nodejs,tailwind" />
 </p>
 
 - NumPy
@@ -89,10 +88,10 @@ I'm a passionate **Computer Science undergraduate specializing in Artificial Int
 - Tailwind CSS
 - REST APIs
 
-<h3>🗄️ Databases</h3>
+### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
 </p>
 
 - SQL
@@ -101,20 +100,20 @@ I'm a passionate **Computer Science undergraduate specializing in Artificial Int
 - MongoDB
 - SQLAlchemy
 
-<h3>☁️ Cloud & Platforms</h3>
+### ☁️ Cloud & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=azure" />
+  <img src="https://skillicons.dev/icons?i=azure" />
 </p>
 
 - Microsoft Azure Fundamentals (AZ-900)
 - Cloud Computing Fundamentals
 - API Integration
 
-<h3>🔧 Tools & Technologies</h3>
+### 🔧 Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 </p>
 
 - Git and GitHub
@@ -125,9 +124,9 @@ I'm a passionate **Computer Science undergraduate specializing in Artificial Int
 
 ---
 
-<h2>💼 Professional Experience</h2>
+## 💼 Professional Experience
 
-<h3>Data Science Intern | BharatPe</h3>
+### Data Science Intern | BharatPe
 
 **Resilient Finance Private Limited**
 
@@ -142,7 +141,7 @@ I'm a passionate **Computer Science undergraduate specializing in Artificial Int
 
 ---
 
-<h2>🏆 Achievements & Recognition</h2>
+## 🏆 Achievements & Recognition
 
 - 🥇 Secured **1st Rank** in GLA University internal SIH software team selection.
 - 🏅 Selected among **62 teams from approximately 340 participating teams**.
@@ -152,7 +151,7 @@ I'm a passionate **Computer Science undergraduate specializing in Artificial Int
 
 ---
 
-<h2>🎓 Education</h2>
+## 🎓 Education
 
 | Qualification | Institution | Year | Score |
 |---|---|---|---|
@@ -162,7 +161,7 @@ I'm a passionate **Computer Science undergraduate specializing in Artificial Int
 
 ---
 
-<h2>📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Riddhima06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -175,7 +174,7 @@ I'm a passionate **Computer Science undergraduate specializing in Artificial Int
 
 ---
 
-<h2>📈 Contribution Activity</h2>
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riddhima06&theme=tokyo-night&hide_border=true&area=true" width="100%" />
@@ -183,7 +182,7 @@ I'm a passionate **Computer Science undergraduate specializing in Artificial Int
 
 ---
 
-<h2>🐍 Watch My Contributions Get Eaten!</h2>
+## 🐍 Watch My Contributions Get Eaten!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Riddhima06/Riddhima06/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
@@ -191,7 +190,7 @@ I'm a passionate **Computer Science undergraduate specializing in Artificial Int
 
 ---
 
-<h2>💡 A Little About Me</h2>
+## 💡 A Little About Me
 
 ```python
 class RiddhimaRajput:
@@ -225,7 +224,7 @@ print(me.motto())
 
 ---
 
-<h2 align="center">🤝 Let's Connect!</h2>
+## 🤝 Let's Connect!
 
 <p align="center">
 I'm always excited to learn, collaborate and build innovative solutions.
