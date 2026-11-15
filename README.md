@@ -21,7 +21,7 @@
 <tr>
 <td width="60%" valign="middle">
 
-I'm a passionate **Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning**, currently pursuing B.Tech at **GLA University, Mathura (2024–2028)** with a CPI of **7.89**.
+I'm a passionate **Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning**, currently pursuing B.Tech at **GLA University, Mathura (2024–2028)** with a CPI of **7.95**.
 
 - 🤖 Exploring Artificial Intelligence and Machine Learning.
 - 💻 Building intelligent applications and software solutions.
@@ -143,11 +143,9 @@ I'm a passionate **Computer Science undergraduate specializing in Artificial Int
 
 ## 🏆 Achievements & Recognition
 
-- 🥇 Secured **1st Rank** in GLA University internal SIH software team selection.
-- 🏅 Selected among **62 teams from approximately 340 participating teams**.
-- 🤖 Worked as **ML Engineer** for SIH26042 – VaniSetu.
+- 🥇 Secured **1st Rank** in GLA University internal SIH .
 - 🌐 Selected for the **Google Gemini Enterprise Student Ambassador Program**.
-- ☁️ Earned **Microsoft Azure Fundamentals (AZ-900)** certification.
+- ☁️ Earned **Microsoft Azure Fundamentals (AZ-900) and AI-900** certification.
 
 ---
 
@@ -155,7 +153,7 @@ I'm a passionate **Computer Science undergraduate specializing in Artificial Int
 
 | Qualification | Institution | Year | Score |
 |---|---|---|---|
-| B.Tech CSE (AIML) | GLA University, Mathura | 2024–2028 | 7.89 CPI |
+| B.Tech CSE (AIML) | GLA University, Mathura | 2024–2028 | 7.95 CPI |
 | Class XII (CBSE) | Kanha Makhan Public School | 2024 | 76.3% |
 | Class X (CBSE) | Kanha Makhan Public School | 2022 | 95% |
 
